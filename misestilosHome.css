@@ -1,0 +1,197 @@
+body 
+{
+
+margin: 0px;
+
+
+}
+
+#principal 
+{
+
+height: 350px;
+width: 100%; 
+}
+
+#Bienvenida
+{
+
+height: 350px;
+width: 100%; 
+
+}
+#Bienvenida1
+{
+
+height: 350px;
+width: 500px;
+float: left; 
+
+}
+#Bienvenida1
+{
+
+height: 350px;
+width: 500px;
+float: left; 
+
+}
+
+#Bienvenida2
+{
+
+height: 350px;
+width: 500px;
+float: right; 
+
+}
+
+#Bienvenida3
+{
+
+height: 350px;
+width: 900px;
+float: left;
+ 
+
+}
+
+#Separacion
+{
+
+height: 40px;
+width: 100%;
+float: left;
+ 
+}
+
+#Boton
+{
+
+height: 150px;
+width: 100%;
+float: left;
+ 
+}
+
+#Espacio
+{
+
+height: 150px;
+width: 200px;
+float: left;
+ 
+}
+
+#Boton1
+{
+
+height: 150px;
+width: 400px;
+float: left;
+ 
+}
+#Espacio2
+{
+
+height: 150px;
+width: 200px;
+float: left;
+ 
+}
+
+#Boton2
+{
+
+height: 150px;
+width: 400px;
+float: left;
+ 
+}
+#Espacio3
+{
+
+height: 150px;
+width: 200px;
+float: left;
+ 
+}
+
+#Boton3
+{
+
+height: 150px;
+width: 400px;
+float: left;
+
+
+ 
+}
+
+#diseño{
+    text-decoration: none;
+    padding: 20px 0px;
+    font-weight: 600;
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #1883ba;
+  }
+  #diseño:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+#diseño1{
+    text-decoration: none;
+    padding: 20px 3px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #1883ba;
+  }
+  #diseño1:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+#diseño2{
+    text-decoration: none;
+    padding: 20px 30px;
+    font-weight: 600;
+    font-size: 25px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #1883ba;
+    
+  }
+  #diseño2:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+#contenedor{
+    margin: 65px 0px;
+  }
+
+#contenedorEspecial{
+    margin: 65px 125px;
+  }
+
+#contenedorInicio{
+    
+margin: 65px 220px;
+  }
+
+#inicio{
+text-decoration: none;
+    
+    
+    font-size: 200px;
+    
+    
+}
