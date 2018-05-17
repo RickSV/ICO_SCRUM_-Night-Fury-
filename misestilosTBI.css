@@ -72,7 +72,8 @@ li a:hover {
  text-align: center;
  padding: 20px;
  border-top: 2px solid #999999;
-font: bold 14px verdana, sans-serif;
+
+ font: bold 20px verdana, sans-serif;
 color: red;
 }
 article {
